@@ -50,7 +50,7 @@ function renderGrid() {
         }
     }
 }
-renderGrid();
+// renderGrid();
 
 // event key listender
 document.addEventListener('keydown', function(e) {
